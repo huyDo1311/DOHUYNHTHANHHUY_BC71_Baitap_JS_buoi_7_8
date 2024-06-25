@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+#themSo,
+#tinhTong,
+#demSo {
+    align-items: flex-start;
+    background-color: #4b70e2;
+    border-radius: 25px;
+    box-shadow: #d1d9e6 8px 8px 16px 0px;
+    color: #f9f9f9;
+    display: inline-block;
+    font-family: Roboto;
+    letter-spacing: 1px;
+    line-height: 24px;
+    /* margin: 0px 4px 4px 0px; */
+    padding: 10px 40px;
+    text-align: center;
+}
+
+input {
+    background-color:
+        #fff;
+    border-radius:
+        8px;
+    box-shadow:
+        #d1d9e6 4px 4px 4px 0px;
+    color:
+        #212529;
+    font-family:
+        Roboto;
+    letter-spacing:
+        0.15px;
+    line-height:
+        24px;
+    padding:
+        8px 16px;
+}
